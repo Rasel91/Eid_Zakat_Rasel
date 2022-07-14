@@ -180,16 +180,15 @@ button{
 }
 
  .footer_text{
-    color: rgb(116, 2, 15);
-    text-transform: capitalize;
+      text-transform: capitalize;
     text-align: center;
  }
 
  .footer_text>div>h2{
-    
+    color: rgb(203, 9, 132);
     font-family: 'Righteous', cursive;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 50px;
+    font-size: 40px;
     padding: 30px;
     margin-top: 20px;
  }
