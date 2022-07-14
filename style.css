@@ -4,6 +4,7 @@
 }
 
 body{
+  
     font-family: 'Montserrat', sans-serif;
     font-size: 20px;
     
@@ -15,7 +16,7 @@ p{
     font-size: 16px;
 }
 .top_sec{
-    height: 100vh;
+    height: 80vh;
     background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.3)),url(images/header.png);
    /* background-image: url(images/header.png); */
     background-repeat:no-repeat;
@@ -141,6 +142,7 @@ button{
 
 /* zakat Fund css start */
 .fund{
+
     display: flex;
     justify-content:space-around;
     margin-left: 50px;
@@ -155,7 +157,7 @@ button{
   
 }
 .fund>div>img {
-	width: 433px;
+	width: 456px;
     
 }
 
